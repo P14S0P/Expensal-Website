@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💚 Expensal
+#Expensal
 
 ### Clearer finances. Closer goals.
 
@@ -15,7 +15,7 @@
 
 ---
 
-## ✨ Meet Expensal
+##Meet Expensal
 
 **Expensal** is a personal finance web app for tracking income, expenses, budgets, and savings goals. Its responsive, bilingual interface and its focus on Costa Rican users help turn day-to-day records into practical financial insights.
 
@@ -26,7 +26,7 @@
   <sub>Actual app screenshot · Dashboard</sub>
 </div>
 
-## 🧩 Features
+##Features
 
 | Feature | What it does |
 |:--|:--|
@@ -41,9 +41,9 @@
 | **🏷️ Categories** | Manages custom categories and payment methods. |
 | **⚙️ Settings and backups** | Exports, imports, and manages app preferences. |
 
-> **💡 Information, not guarantees:** forecasts and recommendations are estimates meant to support the user's decisions.
+> **Information, not guarantees:** forecasts and recommendations are estimates meant to support the user's decisions.
 
-## 📸 Screenshots
+##Screenshots
 
 | Transactions | Savings goals |
 |:--:|:--:|
@@ -53,11 +53,11 @@
 | **Categories and methods** | **Settings and backups** |
 | ![Categories and payment methods](screenshots/06-categorias-y-metodos.png) | ![Settings screen](screenshots/07-ajustes-y-respaldos.png) |
 
-## 💚 Savings goals that adapt to you
+##Savings goals that adapt to you
 
 Create savings goals, record money already saved, virtually allocate part of your available balance, and explore personalized savings approaches. Expensal can highlight deviations and suggest adjustments, but **it never moves money between bank accounts or automatically changes your goals**.
 
-## 🌎 Languages and currencies
+##Languages and currencies
 
 - **Languages:** Spanish and English.
 - **Default currency for new visitors:** Costa Rican colón (CRC).
@@ -65,7 +65,7 @@ Create savings goals, record money already saved, virtually allocate part of you
 - **Conversion rates:** weekly references for consistent conversions during the corresponding period.
 - **Personalization:** light/dark mode and saved language/currency preferences.
 
-## 🔐 Privacy and backups
+##Privacy and backups
 
 Personal financial records are managed primarily through **browser-local storage**, with export/import features to transfer or restore them.
 
@@ -74,7 +74,7 @@ Personal financial records are managed primarily through **browser-local storage
 - Exported backups **should not be treated as strongly encrypted confidential storage**; protect them like other financial files.
 - Support requests and exchange rate lookups may contact external services.
 
-## 🚀 Try it
+##Try it
 
 <div align="center">
 
@@ -84,11 +84,11 @@ Works in your browser on desktop, tablet, and mobile.
 
 </div>
 
-## 💬 Feedback
+##Feedback
 
 Ideas or bugs? Open a **[GitHub Issue](../../issues)** without sharing sensitive details, real financial records, or backup files. You can also use the in-app **Support & Feedback** section.
 
-## 📄 About this repository
+##About this repository
 
 > **Public showcase repository.** It contains documentation and screenshots, **not the application's source code**. Use Expensal at [expensal.com](https://expensal.com/).
 
@@ -98,8 +98,8 @@ Publishing these materials does not grant a license to reuse or redistribute the
 
 <div align="center">
 
-**Expensal · Organize today. Plan tomorrow.** 💚
+**Expensal · Organize today. Plan tomorrow.** 
 
-[🌐 Website](https://expensal.com/) · [⬆ Back to top](#-expensal)
+[Website](https://expensal.com/) · [⬆ Back to top](#-expensal)
 
 </div>
